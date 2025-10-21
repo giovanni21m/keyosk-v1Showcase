@@ -29,9 +29,8 @@ This repository is a **portfolio showcase** demonstrating full-stack development
 
 For questions about the technical implementation or to discuss opportunities:
 
-- **Email**: [Your professional email]
-- **LinkedIn**: [Your LinkedIn profile]
-- **Portfolio**: [Your portfolio website]
+- **LinkedIn**: https://www.linkedin.com/in/giovanni21martinez/
+- **Portfolio**: COMING SOON!
 
 ## 🤝 For Recruiters & Hiring Managers
 
