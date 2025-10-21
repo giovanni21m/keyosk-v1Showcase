@@ -1,0 +1,49 @@
+{
+    "name": "fullstack-portfolio-showcase",
+    "version": "1.0.0",
+    "description": "A professional showcase of full-stack development skills demonstrating modern React/Next.js, TypeScript, security implementation, and enterprise-grade architecture patterns.",
+    "private": true,
+    "author": {
+        "name": "Giovanni Martinez",
+        "email": "[Your professional email]",
+        "url": "[Your portfolio website]"
+    },
+    "keywords": [
+        "portfolio",
+        "fullstack",
+        "react",
+        "nextjs",
+        "typescript",
+        "security",
+        "database",
+        "testing",
+        "architecture",
+        "showcase"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/giovanni21m/keyosk-v1Showcase.git"
+    },
+    "license": "MIT",
+    "engines": {
+        "node": ">=18.0.0",
+        "npm": ">=8.0.0"
+    },
+    "scripts": {
+        "dev": "echo 'This is a portfolio showcase repository. No development server available.'",
+        "build": "echo 'This is a portfolio showcase repository. No build process available.'",
+        "test": "echo 'This is a portfolio showcase repository. See examples/code-snippets.md for testing examples.'",
+        "lint": "echo 'This is a portfolio showcase repository. See examples/code-snippets.md for linting examples.'"
+    },
+    "dependencies": {
+        "react": "^19.1.0",
+        "react-dom": "^19.1.0",
+        "next": "15.5.0",
+        "typescript": "^5.0.0"
+    },
+    "devDependencies": {
+        "@types/react": "^19.0.0",
+        "@types/react-dom": "^19.0.0",
+        "@types/node": "^20.0.0"
+    }
+}
