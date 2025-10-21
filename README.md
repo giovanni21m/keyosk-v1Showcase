@@ -226,9 +226,8 @@ This repository showcases:
 ## 📞 Contact & Opportunities
 
 ### For Technical Discussions
-- **Email**: [Your professional email]
-- **LinkedIn**: [Your LinkedIn profile]
-- **Portfolio**: [Your portfolio website]
+- **LinkedIn**: https://www.linkedin.com/in/giovanni21martinez/
+- **Portfolio**: COMING SOON!
 
 ### Ready For:
 - 🎯 **Technical interviews** and code reviews
